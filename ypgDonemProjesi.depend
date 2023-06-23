@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684926564 source:d:\c\ypgdonemprojesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
